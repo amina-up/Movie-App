@@ -1,0 +1,9 @@
+.star:hover {
+  cursor: pointer;
+}
+
+.stars {
+  background-color: white;
+  border-radius: 10px;
+  width: 69px;
+}
